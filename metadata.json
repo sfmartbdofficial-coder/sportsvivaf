@@ -1,0 +1,6 @@
+{
+  "name": "SportsViva",
+  "description": "Play, Watch & Connect — Live Cricket, Football & Tennis scores, Pro Go-Live Cricket Scoring, Ludo King & Carrom Pool games, Find Local Players, and Sports Store.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
